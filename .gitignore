@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS thumbnails
+._*
+
+# macOS folder metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# iCloud files
+*.icloud
+
+# Finder temp files
+Icon?
